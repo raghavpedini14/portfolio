@@ -1,5 +1,31 @@
 /* main elements */
 
+/* website versions page css */
+
+#web-versions-top-div {
+  text-align: left;
+  /* border: 1px solid red; */
+  /* font-family: 'Merriweather', serif; */
+  position: relative;
+}
+
+#web-versions-head1 {
+  position: absolute;
+  left: 15px;
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+}
+
+#web-versions-head1-lists {
+  position: absolute;
+  top: 70px;
+  left: 15px;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  line-height: 30px;
+}
+
+
 body {
   text-align: center;
   margin: 0;
@@ -14,6 +40,16 @@ p {
 
 
 /* top-container */
+
+#top-most-h3-heading {
+  left: 15px;
+  position: absolute;
+}
+
+#top-most-h3-heading-2 {
+  left: 230px;
+  position: absolute;
+}
 
 .top-container {
   /* background-color: #eaf6f6; */
